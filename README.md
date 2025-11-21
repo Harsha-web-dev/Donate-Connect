@@ -84,9 +84,7 @@ Run on an emulator or physical device
 
 No additional setup required
 
-🔑 Demo Credentials
-Email: demo@gmail.com
-Password: 123456
+
 
 📸 UI Highlights
 
@@ -113,3 +111,9 @@ Can be extended with backend/database integration
 Harsha S
 Dheeraj B K
 Android Developer | MCA Graduate
+
+Screenshots
+
+![IMG-20251120-WA0011](https://github.com/user-attachments/assets/3c47df87-09ae-4b7d-a62b-827bf2264626)
+
+
